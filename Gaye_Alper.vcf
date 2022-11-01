@@ -1,0 +1,16 @@
+BEGIN:VCARD
+VERSION:3.0
+PRODID:-//Apple Inc.//iOS 16.0//EN
+N:ALPER;Gaye;;;
+FN:Gaye ALPER
+ORG:Gayrimenkul Danışmanı;
+item1.EMAIL;type=INTERNET;type=pref:gayealper@gmail.com
+item1.X-ABLabel:_$!<Other>!$_
+TEL;type=CELL;type=VOICE:+90 (532) 454 19 25
+item2.ADR;type=WORK;type=pref:;;Alacaatlı Mah. Şehit Eren Bülbül Cad.\nOzan
+  Wings No:39/A Kat:2 Daire: 10;Anlara;Çankaya;06810;Türkiye
+item2.X-ABADR:tr
+REV:2022-11-01T15:16:00Z
+X-IMAGETYPE:PHOTO
+X-IMAGEHASH:CowqEFpJNX8WpdS2ksGqfg==
+END:VCARD
