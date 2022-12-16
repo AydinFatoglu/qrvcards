@@ -7,7 +7,7 @@ ORG:Gayrimenkul Danışmanı;
 item1.EMAIL;type=INTERNET;type=pref:fatma@fatoglu.com.tr
 item1.X-ABLabel:_$!<Other>!$_
 TEL;type=CELL;type=VOICE;type=pref:+90 (533) 334 66 66
-item2.ADR;type=WORK;type=pref:;;Alacaatlı Mah. Şehit Eren Bülbül Cad.\nOzan Wings No:39/A Kat:2 Daire: 10;Anlara;Çankaya;06810;Türkiye
+item2.ADR;type=ASK ajans-*Al *Sat *Kirala;type=pref:;;Alacaatlı Mah. Şehit Eren Bülbül Cad.\nOzan Wings No:39/A Kat:2 Daire: 10;Anlara;Çankaya;06810;Türkiye
 item2.X-ABADR:tr
 PHOTO;ENCODING=b;TYPE=JPEG:/9j/4AAQSkZJRgABAQAASABIAAD/4QBYRXhpZgAATU0AKgAA
  AAgAAgESAAMAAAABAAEAAIdpAAQAAAABAAAAJgAAAAAAA6ABAAMAAAABAAEAAKACAAQAAAABAA
